@@ -11,5 +11,7 @@
 
 #import "UITableView+DHSmartScreenshot.h"
 #import "UIScrollView+DHSmartScreenshot.h"
+#import "UIView+DHSmartScreenshot.h"
+#import "UIImage+DHImageAdditions.h"
 
 #endif
